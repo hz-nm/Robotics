@@ -1,0 +1,6 @@
+This folder will contain all of the codes and everything required for development of the robot.
+
+For this project we will be using the environment robocode
+
+And also the OPENAI GYM,
+https://github.com/openai/gym
